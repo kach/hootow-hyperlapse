@@ -51,3 +51,6 @@ And a note of appreciation to the tooling that made this possible: Flickr's API
 is fantastic, and Python's `requests`, `jupyter`, `numpy`, `matplotlib`,
 `skimage`, `bs4`, and `networkx`, as well as Imagemagick, made this a pleasure
 to work on -- it took less than a day to go from concept to GIF.
+
+This work is licensed under [CC BY-NC-SA
+4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
