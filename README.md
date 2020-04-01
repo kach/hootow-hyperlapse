@@ -31,9 +31,11 @@ _below it_ (this is a DAG because monotonicity of the y-coordinate is
 preserved). Then run a topological sort and find longest paths through this
 graph.
 
-![hootow shiny](hootow.gif)
+![hootow shiny](hootow-small.gif)
 
-![hootow guts](hootow-guts.gif)
+![hootow guts](hootow-guts-small.gif)
+
+(Full-size GIFs, 10-20MB each, are in the repo.)
 
 This work is somewhat inspired by [Vermödalen by John
 Koenig](https://www.youtube.com/watch?v=8ftDjebw8aA) and this [video by Sam
